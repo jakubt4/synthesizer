@@ -12,8 +12,8 @@ How to start:
 
     a) make clone of git (git clone https://github.com/jakubt4/synthesizer.git)
     b) go to the synthesisOfSound
-    c) use command for maven (mvn clean install)
-    d) compile for eclipse (mvn eclipse:eclipse -DdownloadSources)
+    c) use command for build project with maven (mvn clean install)
+    d) build for eclipse (mvn eclipse:eclipse -DdownloadSources)
     e) import project to eclipse
 3, Run
 
